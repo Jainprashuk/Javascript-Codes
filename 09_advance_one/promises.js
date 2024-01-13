@@ -1,3 +1,7 @@
+// callback hell problem - nested callacks - very complex - tought debegging - solution(promises , asyn , await)
+
+
+// promises states - pending , fulfilled , rejected
 const promiseOne = new Promise(function(resolve, reject){
     //Do an async task
     // DB calls, cryptography, network
