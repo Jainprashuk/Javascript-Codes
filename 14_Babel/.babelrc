@@ -1,0 +1,4 @@
+{
+    "presets": ["es2015"], // set of defination , helps to go back in  previous versions from es6
+    "plugins": []
+}
